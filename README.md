@@ -1,0 +1,10 @@
+- 👋 Hi, I’m @ianleemuyo
+- 👀 I’m interested in Application Developing
+- 🌱 I’m currently learning basics in programminng, game developing, website developing
+- 💞️ I’m looking to collaborate on no one right now
+- 📫 How to reach me in gmail: ian.lee.m.muyo@gmail.com
+- 💼 school email: ianleemmuyo@iskolarngbayan.pup.edu.ph
+- 📹 youtube: www.youtube.com/@IanLeeMuyo
+- 😄 Pronouns: he/him
+- ⚡ Currently taking Bachelor of Science in Computer Science in Polytechnic University of the Philippines
+- ☀️ I like cozy games
