@@ -8,3 +8,4 @@
 - 😄 Pronouns: he/him
 - ⚡ Currently taking Bachelor of Science in Computer Science in Polytechnic University of the Philippines
 - ☀️ I like cozy games
+- 🎮 check out my games in https://zenoneyaz.itch.io/
