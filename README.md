@@ -9,5 +9,6 @@
 - 📹 youtube: www.youtube.com/@IanLeeMuyo
 - 😄 Pronouns: he/him
 - ⚡ Currently taking Bachelor of Science in Computer Science in Polytechnic University of the Philippines
+- 🌐 Currently learning c language, will learn python, javascript, etc. later
 - ☀️ I like cozy games
 - 🎮 check out my games in https://zenoneyaz.itch.io/
