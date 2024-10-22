@@ -4,6 +4,8 @@
 - 💞️ I’m looking to collaborate on no one right now
 - 📫 How to reach me in gmail: ian.lee.m.muyo@gmail.com
 - 💼 school email: ianleemmuyo@iskolarngbayan.pup.edu.ph
+- 👨🏻‍💻 LinkedIn: www.linkedin.com/in/ian-lee-muyo
+- 📚 Portfolio: currently on progress
 - 📹 youtube: www.youtube.com/@IanLeeMuyo
 - 😄 Pronouns: he/him
 - ⚡ Currently taking Bachelor of Science in Computer Science in Polytechnic University of the Philippines
