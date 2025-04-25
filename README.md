@@ -1,14 +1,35 @@
-- 👋 Hi, I’m @ianleemuyo
-- 👀 I’m interested in Application Developing
-- 🌱 I’m currently learning basics in programminng, game developing, website developing
-- 💞️ I’m looking to collaborate on no one right now
-- 📫 How to reach me in gmail: ian.lee.m.muyo@gmail.com
-- 💼 school email: ianleemmuyo@iskolarngbayan.pup.edu.ph
-- 👨🏻‍💻 LinkedIn: www.linkedin.com/in/ian-lee-muyo
-- 📚 Portfolio: currently on progress
-- 📹 youtube: www.youtube.com/@IanLeeMuyo
-- 😄 Pronouns: he/him
-- ⚡ Currently taking Bachelor of Science in Computer Science in Polytechnic University of the Philippines
-- 🌐 Currently learning c language, will learn python, javascript, etc. later
-- ☀️ I like cozy games
-- 🎮 check out my games in https://zenoneyaz.itch.io/
+# 👋 Hello World! I'm Ian Lee Muyo 🌟
+
+Welcome to my GitHub space — where code meets curiosity!
+
+---
+
+## 🚀 About Me
+- 🎓 **BS Computer Science student** at [Polytechnic University of the Philippines](https://www.pup.edu.ph/)
+- 🌱 Currently learning: **C Language**, with plans to explore **Python**, **JavaScript**, and more!
+- 🎮 Game dev enthusiast — I love **cozy games** and building immersive digital experiences
+- ⚒️ Aspiring **Application Developer** with a growing interest in **Web** and **Game Development**
+
+---
+
+## 📫 Let's Connect
+- 📧 **Gmail:** ian.lee.m.muyo@gmail.com  
+- 🎓 **School Email:** ianleemmuyo@iskolarngbayan.pup.edu.ph  
+- 👔 **LinkedIn:** [www.linkedin.com/in/ian-lee-muyo](https://www.linkedin.com/in/ian-lee-muyo)  
+- 📹 **YouTube:** [@IanLeeMuyo](https://www.youtube.com/@IanLeeMuyo)  
+- 🎮 **Games on Itch.io:** [zenoneyaz.itch.io](https://zenoneyaz.itch.io/)  
+- 📁 **Portfolio:** *Coming soon... Stay tuned!*
+
+---
+
+## 💻 Fun Facts
+- 😄 Pronouns: **he/him**
+- 🌐 Enjoys tinkering with tech and learning new tools
+- 🧩 Loves solving problems and making systems run smoothly
+- ☀️ Finds joy in quiet gaming sessions and cozy game dev vibes
+
+---
+
+> “Code is like humor. When you have to explain it, it’s bad.” – Cory House
+
+Thanks for stopping by! ⭐ Feel free to explore my repos or just say hi!
